@@ -21,7 +21,7 @@ http://silex.sensiolabs.org
 + create a wordpress like CMS 
   + Most of clients are used to manage their content with a Wordpress like interface
   + this app will try to reproduce the best features of the wordpress CMS , like easy content management , easy template management , and easy plugin extension
-
+jhdgsfjhdsgfjsd
 
 ## features
 
